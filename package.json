@@ -12,7 +12,8 @@
     "dev": "make dev",
     "prepublishOnly": "make build",
     "validate": "npm ls",
-    "flow": "flow"
+    "flow": "flow",
+    "start": "make dev"
   },
   "repository": {
     "type": "git",
